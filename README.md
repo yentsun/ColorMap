@@ -1,4 +1,4 @@
-This class was designed to convert string color names like *'yellow'* into entities with all the tech properties needed to display the color (hex-code, rgb, cmyk). It uses a [csv map](https://github.com/yentsun/ColorMap/blob/master/map.csv) as reference.
+This class was designed to convert string color names like *'yellow'* into entities with all the tech properties needed to display the color (hex-code, rgb, cmyk). It uses a [csv map](https://github.com/yentsun/ColorMap/blob/master/map.csv) as reference. The map contains **950+** colors.
 
 **Note. Only Russian color names are currently supported! English support is scheduled.**
 
@@ -9,6 +9,8 @@ This class can be handy in a shop application, whith a legacy database where ite
 
 Usage
 -----
+
+Install the class by issuing ```git clone git://github.com/yentsun/ColorMap.git``` in the desired folder and then:
 
 ```php
 <?php
