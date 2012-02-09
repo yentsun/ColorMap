@@ -12,9 +12,9 @@ require 'ColorMap/Color.php';
 
 $color = new Color('Белый');
 
-print $color->clean_name; // "белый"
-print $color->hsv; // "0,0,100"
-print $color->rgb; // "255,255,255"
-print $color->cmyk; // "0,0,0,0"
-print $color->hex; // "FFFFFF"
+print $color->clean_name; // белый
+print $color->hsv; // 0,0,100
+print $color->rgb; // 255,255,255
+print $color->cmyk; // 0,0,0,0
+print $color->hex; // FFFFFF
 ```
