@@ -2,6 +2,11 @@ This class was designed to convert string color names like *'yellow'* into entit
 
 **Note. Only Russian color names are currently supported! English support is scheduled.**
 
+What is it for?
+---------------
+
+This class can be handy in a shop application, whith a legacy database where item colors are stored by names only.
+
 Usage
 -----
 
