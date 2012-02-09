@@ -4,7 +4,7 @@ This class was designed to convert string color names like _'yellow'_ into entit
 
 h3. Usage
 
-<pre><code class="php">
+<pre>
 <?php
 
 require 'ColorMap/Color.php';
@@ -17,4 +17,4 @@ print $color->rgb; // "255,255,255"
 print $color->cmyk; // "0,0,0,0"
 print $color->hex; // "FFFFFF"
 
-</code></pre>
+</pre>
