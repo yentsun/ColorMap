@@ -1,4 +1,4 @@
-This class was designed to convert string color names like *'yellow'* into entities with all the tech properties needed to display the color (hex-code, rgb, cmyk). It uses a csv map as  data storage.
+This class was designed to convert string color names like *'yellow'* into entities with all the tech properties needed to display the color (hex-code, rgb, cmyk). It uses a [csv map](https://github.com/yentsun/ColorMap/blob/master/map.csv) as  data storage.
 
 **Note. Only Russian color names are currently supported! English support is scheduled.**
 
