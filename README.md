@@ -5,7 +5,7 @@ This class was designed to convert string color names like *'yellow'* into entit
 What is it for?
 ---------------
 
-This class can be handy in a shop application, whith a legacy database where item colors are stored by names only.
+This class can be handy in a an application, where colors are stored by names only and a visual color sample is needed.
 
 Usage
 -----
