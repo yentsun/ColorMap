@@ -5,13 +5,11 @@ This class was designed to convert string color names like *'yellow'* into entit
 
 What is it for?
 ---------------
-
 This class can be handy in a an application, where colors are stored by names only and visual color samples needed.
 
 
 Usage
 -----
-
 Install the class by issuing ```git clone git://github.com/yentsun/ColorMap.git``` in some folder your project
 has access to and then:
 
